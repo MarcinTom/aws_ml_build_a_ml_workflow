@@ -26,9 +26,12 @@ Additional tools needed are AWS Lambda and AWS Step Function available also in A
 3. [`lambda.py`](./lambda.py) File containing all 3 AWS Lambda functions (serializeImageData, classifyImageData, filterLowConfidence) used in the below Step Function
 4. [`ProjectStepFunction.asl.json`](./ProjectStepFunction.asl.json) ML workflow created based on three AWS Lambda functions
 5. [`stepfunctions_graph.png`](./stepfunctions_graph.png) Step Function visualization
+6. [`working_step_function.JPG`](./working_step_function.JPG) Screenshot confirming that step function setup is working
 
 ## Step Function Graph
 ![stateMachine](./stepfunctions_graph.png)
+
+![stateMachine2](./working_step_function.JPG)
 
 ## Observed inferences examples
 ![observed_inferences](./observed_inferences.JPG)
