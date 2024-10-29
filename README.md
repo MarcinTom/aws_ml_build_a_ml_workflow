@@ -30,9 +30,6 @@ Additional tools needed are AWS Lambda and AWS Step Function available also in A
 ## Step Function Graph
 ![stateMachine](./stepfunctions_graph.png)
 
-## Step Function Graph
-![stateMachine](./stepfunctions_graph.png)
-
 ## Observed inferences examples
 ![observed_inferences](./observed_inferences.JPG)
 
